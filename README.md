@@ -1,7 +1,7 @@
 ### Hi there, I'm Kamogelo Khumalo 👋
 
-- 🌱 Currently learning blockchain development
-- ⚡Lover of web development, finance, blockchain and chocolate
+- 🌱 Currently working on Graddeo (a job board for juniors)
+- ⚡Lover of web development, weights and chocolate
 
 ## 📈 Github stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamo-Chip&show_icons=true&hide_border=true&hide=prs,issues,contribs&count_private=true&include_all_commits=true" />
